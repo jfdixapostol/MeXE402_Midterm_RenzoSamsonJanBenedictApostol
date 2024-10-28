@@ -1,4 +1,4 @@
-# <h1 align="center">MeXE402_Midterm_RenzoSamsonJanBenedictApostol</h1>
+# <h1 align="center">MeXE402_Midterm_RenzoSamson_JanBenedictApostol</h1>
 
 <h1 align="center">Midterm Activity: Linear and Logistic Regression</h1>
 <br>
@@ -11,7 +11,25 @@
   - [V. References](#v-references)
 <hr> 
 <br>
+
+## I. Introduction
+<p align="justify"> 
+<br>
+  
+## II. Dataset Overview
+<p align="justify"> 
+<br>
+  
+## III. Project Objectives
+<p align="justify"> 
+<br>
   
 ## IV. Pair:
 - Samson, Renzo
 - Apostol, Jan Benedict D.
+
+## V. References
+<p align="justify">
+- Salary Data. (n.d.). M. S. R. Reddy, J G Sukumar, N. Sambangi. https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+- Bank Marketing Dataset. (2017). Janio Martinez Bachmann. https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+<br>
