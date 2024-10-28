@@ -30,8 +30,9 @@
 
 ## V. References
 <p align="justify">
-- Salary Data. (n.d.). M. S. R. Reddy, J G Sukumar, N. Sambangi. https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
   
+- Salary Data. (n.d.). M. S. R. Reddy, J. G. Sukumar, N. Sambangi. https://www.kaggle.com/datasets/mohithsairamreddy/salary-data
+
 - Bank Marketing Dataset. (2017). Janio Martinez Bachmann. https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
 <hr>
 <br>
