@@ -13,17 +13,74 @@
 <br>
 
 ## I. Introduction
+***Linear Regression : Salary Dataset***
 <p align="justify"> 
+  
+- **Objective**: Predict salaries based on experience, age, gender, job title, and education level.
+- **Data Collection**: This dataset was compiled from multiple sources, including: Surveys, Job posting sites, and Publicly available resources
+- **Dataset Summary**:
+  - **Total Data Points**: 6,704
+  - **Variables**:
+    - `Age`
+    - `Experience`
+    - `Job Role`
+    - `Education Level`
+    - `Salary`
+<br>
+
+***Logistic Regression : Bank Marketing Dataset***
+<p align="justify"> 
+
+- **Objective**: Utilize data from a previous bank telemarketing campaign to predict its success.
+- **Project Title**: *"A Data-Driven Approach to Predict the Success of Bank Telemarketing."*
+- **Dataset**: Sourced from the UCI Machine Learning Repository, containing customer interactions and campaign details.
+- **Goal**: Build a logistic regression model to identify patterns for improved marketing strategy.
+
 <br>
   
 ## II. Dataset Overview
 <p align="justify"> 
 <br>
+
+***Logistic Regression : Bank Marketing Dataset***
+<p align="justify"> 
+  
+- **Client Information**:
+  - **age**: Client’s age.
+  - **job**: Type of job (e.g., admin, blue-collar).
+  - **marital**: Marital status (e.g., married, single).
+  - **education**: Level of education.
+  - **default**: Has credit in default.
+  - **balance**: Client’s account balance.
+  - **housing**: Has a housing loan.
+  - **loan**: Has a personal loan.
+  
+- **Campaign Information**:
+  - **contact**: Type of contact (e.g., cellular, telephone).
+  - **day**: Day of last contact.
+  - **month**: Month of last contact.
+  - **duration**: Duration of last contact in seconds.
+  - **campaign**: Number of contacts in the campaign.
+  - **previous**: Number of contacts before the campaign.
+  - **poutcome**: Outcome of the previous campaign.
+
+- **Target Variable**:
+  - **y**: Client's subscription to a term deposit (yes or no).
+ 
+<br>
   
 ## III. Project Objectives
 <p align="justify"> 
 <br>
-  
+
+***Logistic Regression : Bank Marketing Dataset***
+<p align="justify"> 
+
+- **Predictive Modeling**: Use logistic regression to predict client subscription.
+- **Feature Analysis**: Determine key factors affecting the likelihood of subscription.
+- **Strategy Recommendations**: Generate actionable insights to improve future campaigns.
+<br>
+
 ## IV. Pair:
 - Samson, Renzo
 - Apostol, Jan Benedict D.
