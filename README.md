@@ -95,7 +95,7 @@
 <br>
 
 ## IV. Pair:
-- Samson, Renzo
+- Samson, Renzo M.
 - Apostol, Jan Benedict D.
 
 ## V. References
