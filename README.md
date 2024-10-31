@@ -13,33 +13,39 @@
 <br>
 
 ## I. Introduction
+
 ***Linear Regression : Salary Dataset***
+
 <p align="justify"> 
   
-- **Objective**: Predict salaries based on experience, age, gender, job title, and education level.
-- **Data Collection**: This dataset was compiled from multiple sources, including: Surveys, Job posting sites, and Publicly available resources
-- **Dataset Summary**:
-  - **Total Data Points**: 6,704
-  - **Variables**:
-    - `Age`
-    - `Experience`
-    - `Job Role`
-    - `Education Level`
-    - `Salary`
+  - **Objective**: Use linear regression to analyze and predict salaries based on relevant factors.
+  - **Dataset Source**: Collected from various sources, including surveys, job postings, and publicly available databases.
+  - **Total Data Points**: 6,704.
+  - **Goal**: Build a linear regression model to explore relationships between personal/professional attributes and salary.
 <br>
 
 ***Logistic Regression : Bank Marketing Dataset***
 <p align="justify"> 
 
-- **Objective**: Utilize data from a previous bank telemarketing campaign to predict its success.
-- **Project Title**: *"A Data-Driven Approach to Predict the Success of Bank Telemarketing."*
-- **Dataset**: Sourced from the UCI Machine Learning Repository, containing customer interactions and campaign details.
-- **Goal**: Build a logistic regression model to identify patterns for improved marketing strategy.
+  - **Objective**: Utilize data from a previous bank telemarketing campaign to predict its success.
+  - **Project Title**: *"A Data-Driven Approach to Predict the Success of Bank Telemarketing."*
+  - **Dataset**: Sourced from the UCI Machine Learning Repository, containing customer interactions and campaign details.
+  - **Goal**: Build a logistic regression model to identify patterns for improved marketing strategy.
 
 <br>
   
 ## II. Dataset Overview
+
+***Linear Regression : Salary Dataset***
+
 <p align="justify"> 
+  
+  - **Variables**:
+  - **age**: Age of the individual.
+  - **experience**: Years of relevant work experience.
+  - **job_role**: Title or designation (e.g., Software Engineer, Data Analyst).
+  - **education_level**: Highest level of education completed.
+  - **salary**: Annual salary, target variable for prediction.
 <br>
 
 ***Logistic Regression : Bank Marketing Dataset***
@@ -70,7 +76,14 @@
 <br>
   
 ## III. Project Objectives
+
+***Linear Regression : Salary Dataset***
+
 <p align="justify"> 
+  
+  - **Predictive Modeling**: Develop a linear regression model to predict salary.
+  - **Feature Analysis**: Identify the variables with the most significant impact on salary.
+  - **Insights Generation**: Provide recommendations based on the model to inform salary expectations and career planning.
 <br>
 
 ***Logistic Regression : Bank Marketing Dataset***
