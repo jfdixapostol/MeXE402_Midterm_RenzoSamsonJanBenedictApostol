@@ -57,6 +57,8 @@ This project highlights the two fundamental statistical techniques commonly used
   - **salary**: Annual salary, target variable for prediction.
 <br>
 
+<img src=Attainment.jfifhttps://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/eb4098a881742e0843483cca591b693a12fc5bb9/Linear_Regression/Educational%20Attainment.jfif style="height: 300px; float: left;">
+
 ***Logistic Regression : Bank Marketing Dataset***
 <p align="justify"> 
   
