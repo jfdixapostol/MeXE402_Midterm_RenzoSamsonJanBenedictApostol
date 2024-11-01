@@ -54,7 +54,7 @@ This project highlights the two fundamental statistical techniques commonly used
   - **education_level**: Highest level of education completed.
   - **salary**: Annual salary, target variable for prediction.
 
-For more detailed information, you may click [link](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data)
+For more detailed information about our dataset, you may click [here.](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data)
 
 <h3><i>Visual Representation for Linear Regression Dataset</h3></i>
 
@@ -93,6 +93,9 @@ For more detailed information, you may click [link](https://www.kaggle.com/datas
 <p align="center">
 <i>We can see that the more they gain experience throughtout the years, the higher their possible salary is.</i>
 </p>
+
+For detailed information about our code, you may click [here.](https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/main/Linear_Regression/Salary_Data_Linear_Regression.ipynb)
+
 <br>
 
 <h3><i>Logistic Regression : Bank Marketing Dataset</h3></i>
@@ -119,6 +122,8 @@ For more detailed information, you may click [link](https://www.kaggle.com/datas
 
 - **Target Variable**:
   - **y**: Client's subscription to a term deposit (yes or no).
+
+For more detailed information about our dataset, you may click [here.](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
  
 <h3><i>Visual Representation for Logistic Regression Dataset</h3></i>
 
@@ -193,7 +198,9 @@ For more detailed information, you may click [link](https://www.kaggle.com/datas
 <p align="center">
 <i>The graph above shows that we can see the older customers tends to have a higher bank balance and the customers who accepted the deposit tended to have a higher balance compared to the customers who refused the deposit.</i>
 </p>
-  
+
+For detailed information about our code, you may click [here.](https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/main/Logistic_Regression/Bank_Logistic_Regression.ipynb)
+
 <br>
   
 ## III. Project Objectives
