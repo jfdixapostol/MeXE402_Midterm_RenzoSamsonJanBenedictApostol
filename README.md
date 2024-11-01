@@ -14,6 +14,12 @@
 
 ## I. Introduction
 
+<p align="justify"> 
+This project highlights the two fundamental statistical techniques commonly used in data analysis and machine learning, these are the linear regression and logistic regression. 
+
+<p align="justify"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us differentiate the two, first we define what is <i><b>Linear Regression</i></b>, is used to predict the value of a variable based on the value of another variable. The variable that needed to predict is called the dependent variable. The variable that is used to predict the dependent variable is called the independent variable. <i></i>Linear Regression<b></b> models interpret mathematical formula that can generate predictions different datasets. Linear regression can be applied to various areas such as business and even academic study.
+
 ***Linear Regression : Salary Dataset***
 
 <p align="justify"> 
@@ -23,6 +29,9 @@
   - **Total Data Points**: 6,704.
   - **Goal**: Build a linear regression model to explore relationships between personal/professional attributes and salary.
 <br>
+
+<p align="justify"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the other hand, <i><b>Logistic Regression</i></b>, it uses the logistic function to model the probability that a given input point belongs to a particular class. Instead of using regression for classification problems, logistic regression is used. It is a method for predicting results that fall into one of two categories, like yes or no, or success or failure, which are represented by 0 or 1.
 
 ***Logistic Regression : Bank Marketing Dataset***
 <p align="justify"> 
