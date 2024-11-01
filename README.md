@@ -69,7 +69,7 @@ This project highlights the two fundamental statistical techniques commonly used
 </p>
 
 <p align="center">
-<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/ac500cc18d3c2757305f6d2f1c03a4ac1530acf6/Linear_Regression/Plot%20of%20Age%20vs%20Salary.jpg style="height: 500px; float: left;">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/ac500cc18d3c2757305f6d2f1c03a4ac1530acf6/Linear_Regression/Plot%20of%20Age%20vs%20Salary.jpg style="height: 500px; float: center;">
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ This project highlights the two fundamental statistical techniques commonly used
 </p>
 
 <p align="center">
-<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/ac500cc18d3c2757305f6d2f1c03a4ac1530acf6/Linear_Regression/Plot%20of%20Years%20of%20Experience%20vs%20Salary.jpg style="height: 500px; float: left;">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/ac500cc18d3c2757305f6d2f1c03a4ac1530acf6/Linear_Regression/Plot%20of%20Years%20of%20Experience%20vs%20Salary.jpg style="height: 500px; float: center;">
 </p>
 
 <p align="center">
@@ -119,6 +119,8 @@ This project highlights the two fundamental statistical techniques commonly used
   - **y**: Client's subscription to a term deposit (yes or no).
  
 <h3><i>Visual Representation for Logistic Regression Dataset</h3></i>
+
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/6c423c28d04d3a9436574969e754e6356b33d701/Logistic_Regression/Job%20vs%20Campaign%20Success.jpg style="height: 500px; float: center;">
  
 <br>
   
