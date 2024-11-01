@@ -6,7 +6,7 @@
 ## Table of Contents
   - [I. Introduction](#i-introduction)
   - [II. Dataset Overview](#ii-dataset-overview)
-  - [2.1. Visual Representation for Linear Regression](2.1-visual-representation-for-linear-regression)
+  - [a. Visual Representation for Linear Regression](a-visual-representation-for-linear-regression)
   - [III. Project Objectives](#iii-project-objectives)
   - [IV. Pair](#iv-pair)
   - [V. References](#v-references)
@@ -58,11 +58,13 @@ This project highlights the two fundamental statistical techniques commonly used
   - **salary**: Annual salary, target variable for prediction.
 <br>
 
-## 2.1. Visual Representation for Linear Regression
+## a. Visual Representation for Linear Regression
 
 <p align="center">
 <img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/9197f300913ebb57ae4116aa114d8bf84b7ac70b/Linear_Regression/Educational%20Attainment.jpg style="height: 500px; float: center;">
 </p>
+
+<i>We can see that the people that has a PhD most likely to gain the highest salary. And those with the lowest are High School as their Education Level.</i>
 
 ***Logistic Regression : Bank Marketing Dataset***
 <p align="justify"> 
