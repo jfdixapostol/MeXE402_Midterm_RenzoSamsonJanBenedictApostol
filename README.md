@@ -6,6 +6,7 @@
 ## Table of Contents
   - [I. Introduction](#i-introduction)
   - [II. Dataset Overview](#ii-dataset-overview)
+  - [2.1. Visual Representation for Linear Regression](2.1-visual-representation-for-linear-regression)
   - [III. Project Objectives](#iii-project-objectives)
   - [IV. Pair](#iv-pair)
   - [V. References](#v-references)
@@ -57,7 +58,11 @@ This project highlights the two fundamental statistical techniques commonly used
   - **salary**: Annual salary, target variable for prediction.
 <br>
 
-<img src=Attainment.jfifhttps://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/eb4098a881742e0843483cca591b693a12fc5bb9/Linear_Regression/Educational%20Attainment.jfif style="height: 300px; float: left;">
+## 2.1 Visual Representation for Linear Regression
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/9197f300913ebb57ae4116aa114d8bf84b7ac70b/Linear_Regression/Educational%20Attainment.jpg style="height: 500px; float: center;">
+</p>
 
 ***Logistic Regression : Bank Marketing Dataset***
 <p align="justify"> 
