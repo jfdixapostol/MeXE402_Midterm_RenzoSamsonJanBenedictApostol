@@ -94,7 +94,7 @@ For more detailed information about our dataset, you may click [here.](https://w
 <i>We can see that the more they gain experience throughtout the years, the higher their possible salary is.</i>
 </p>
 
-For detailed information about our code, you may click [here.](https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/main/Linear_Regression/Salary_Data_Linear_Regression.ipynb)
+For more detailed information about our code, you may click [here.](https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/main/Linear_Regression/Salary_Data_Linear_Regression.ipynb)
 
 <br>
 
@@ -199,8 +199,7 @@ For more detailed information about our dataset, you may click [here.](https://w
 <i>The graph above shows that we can see the older customers tends to have a higher bank balance and the customers who accepted the deposit tended to have a higher balance compared to the customers who refused the deposit.</i>
 </p>
 
-For detailed information about our code, you may click [here.](https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/main/Logistic_Regression/Bank_Logistic_Regression.ipynb)
-
+For more detailed information about our code, you may click [here.](https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/main/Logistic_Regression/Bank_Logistic_Regression.ipynb)
 <br>
   
 ## III. Project Objectives
