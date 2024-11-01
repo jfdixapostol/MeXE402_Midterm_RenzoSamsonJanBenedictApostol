@@ -6,7 +6,6 @@
 ## Table of Contents
   - [I. Introduction](#i-introduction)
   - [II. Dataset Overview](#ii-dataset-overview)
-  - [a. Visual Representation for Linear Regression](a-visual-representation-for-linear-regression)
   - [III. Project Objectives](#iii-project-objectives)
   - [IV. Pair](#iv-pair)
   - [V. References](#v-references)
@@ -21,7 +20,7 @@ This project highlights the two fundamental statistical techniques commonly used
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let us differentiate the two, first we define what is <i><b>Linear Regression</i></b>, is used to predict the value of a variable based on the value of another variable. The variable that needed to predict is called the dependent variable. The variable that is used to predict the dependent variable is called the independent variable. <i></i>Linear Regression<b></b> models interpret mathematical formula that can generate predictions different datasets. Linear regression can be applied to various areas such as business and even academic study.
 
-***Linear Regression : Salary Dataset***
+<h3><i>Linear Regression : Salary Dataset</h3></i>
 
 <p align="justify"> 
   
@@ -29,24 +28,22 @@ This project highlights the two fundamental statistical techniques commonly used
   - **Dataset Source**: Collected from various sources, including surveys, job postings, and publicly available databases.
   - **Total Data Points**: 6,704.
   - **Goal**: Build a linear regression model to explore relationships between personal/professional attributes and salary.
-<br>
 
 <p align="justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On the other hand, <i><b>Logistic Regression</i></b>, it uses the logistic function to model the probability that a given input point belongs to a particular class. Instead of using regression for classification problems, logistic regression is used. It is a method for predicting results that fall into one of two categories, like yes or no, or success or failure, which are represented by 0 or 1.
 
-***Logistic Regression : Bank Marketing Dataset***
+<h3><i>Logistic Regression : Bank Marketing Dataset</h3></i>
 <p align="justify"> 
 
   - **Objective**: Utilize data from a previous bank telemarketing campaign to predict its success.
   - **Project Title**: *"A Data-Driven Approach to Predict the Success of Bank Telemarketing."*
   - **Dataset**: Sourced from the UCI Machine Learning Repository, containing customer interactions and campaign details.
   - **Goal**: Build a logistic regression model to identify patterns for improved marketing strategy.
-
 <br>
   
 ## II. Dataset Overview
 
-***Linear Regression : Salary Dataset***
+<h3><i>Linear Regression : Salary Dataset</i></h3>
 
 <p align="justify"> 
   
@@ -56,17 +53,47 @@ This project highlights the two fundamental statistical techniques commonly used
   - **job_role**: Title or designation (e.g., Software Engineer, Data Analyst).
   - **education_level**: Highest level of education completed.
   - **salary**: Annual salary, target variable for prediction.
-<br>
 
-## a. Visual Representation for Linear Regression
+<h3><i>Visual Representation for Linear Regression Dataset</h3></i>
 
 <p align="center">
 <img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/9197f300913ebb57ae4116aa114d8bf84b7ac70b/Linear_Regression/Educational%20Attainment.jpg style="height: 500px; float: center;">
 </p>
 
+<p align="center">
+<b><i>Figure 2.1: Educational Attainment vs Salary</b></i>
+</p>
+  
+<p align="center">
 <i>We can see that the people that has a PhD most likely to gain the highest salary. And those with the lowest are High School as their Education Level.</i>
+</p>
 
-***Logistic Regression : Bank Marketing Dataset***
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/ac500cc18d3c2757305f6d2f1c03a4ac1530acf6/Linear_Regression/Plot%20of%20Age%20vs%20Salary.jpg style="height: 500px; float: left;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.2: Age vs Salary</b></i>
+</p>
+  
+<p align="center">
+<i>Based on the graph above, we can see that the higher the age, the higher their salary is.</i>
+</p>
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/ac500cc18d3c2757305f6d2f1c03a4ac1530acf6/Linear_Regression/Plot%20of%20Years%20of%20Experience%20vs%20Salary.jpg style="height: 500px; float: left;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.3: Comparison of Years of Experience and their Salary Based on ther Educational Attainment</b></i>
+</p>
+  
+<p align="center">
+<i>We can see that the more they gain experience throughtout the years, the higher their possible salary is.</i>
+</p>
+<br>
+
+<h3><i>Logistic Regression : Bank Marketing Dataset</h3></i>
 <p align="justify"> 
   
 - **Client Information**:
@@ -91,12 +118,13 @@ This project highlights the two fundamental statistical techniques commonly used
 - **Target Variable**:
   - **y**: Client's subscription to a term deposit (yes or no).
  
+<h3><i>Visual Representation for Logistic Regression Dataset</h3></i>
+ 
 <br>
   
 ## III. Project Objectives
 
-***Linear Regression : Salary Dataset***
-
+<h3><i>Linear Regression : Salary Dataset</h3></i>
 <p align="justify"> 
   
   - **Predictive Modeling**: Develop a linear regression model to predict salary.
@@ -104,7 +132,7 @@ This project highlights the two fundamental statistical techniques commonly used
   - **Insights Generation**: Provide recommendations based on the model to inform salary expectations and career planning.
 <br>
 
-***Logistic Regression : Bank Marketing Dataset***
+<h3><i>Logistic Regression : Bank Marketing Dataset</h3></i>
 <p align="justify"> 
 
 - **Predictive Modeling**: Use logistic regression to predict client subscription.
