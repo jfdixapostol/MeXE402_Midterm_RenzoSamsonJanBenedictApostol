@@ -54,6 +54,8 @@ This project highlights the two fundamental statistical techniques commonly used
   - **education_level**: Highest level of education completed.
   - **salary**: Annual salary, target variable for prediction.
 
+For more detailed information, you may click [link](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data)
+
 <h3><i>Visual Representation for Linear Regression Dataset</h3></i>
 
 <p align="center">
