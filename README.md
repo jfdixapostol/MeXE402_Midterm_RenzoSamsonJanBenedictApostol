@@ -61,7 +61,7 @@ This project highlights the two fundamental statistical techniques commonly used
 </p>
 
 <p align="center">
-<b><i>Figure 2.1: Educational Attainment vs Salary</b></i>
+<b><i>Figure 2.1.1: Educational Attainment vs Salary</b></i>
 </p>
   
 <p align="center">
@@ -73,7 +73,7 @@ This project highlights the two fundamental statistical techniques commonly used
 </p>
 
 <p align="center">
-<b><i>Figure 2.2: Age vs Salary</b></i>
+<b><i>Figure 2.1.2: Age vs Salary</b></i>
 </p>
   
 <p align="center">
@@ -85,7 +85,7 @@ This project highlights the two fundamental statistical techniques commonly used
 </p>
 
 <p align="center">
-<b><i>Figure 2.3: Comparison of Years of Experience and their Salary Based on ther Educational Attainment</b></i>
+<b><i>Figure 2.1.3: Comparison of Years of Experience and their Salary Based on ther Educational Attainment</b></i>
 </p>
   
 <p align="center">
@@ -120,8 +120,78 @@ This project highlights the two fundamental statistical techniques commonly used
  
 <h3><i>Visual Representation for Logistic Regression Dataset</h3></i>
 
+<p align="center">
 <img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/6c423c28d04d3a9436574969e754e6356b33d701/Logistic_Regression/Job%20vs%20Campaign%20Success.jpg style="height: 500px; float: center;">
- 
+</p>
+
+<p align="center">
+<b><i>Figure 2.2.1: Job vs Campaign Success</b></i>
+</p>
+  
+<p align="center">
+<i>We can see that customers with job type as 'student' or 'retired' tends to accept the deposit, while 'blue collars' largely refused the deposit.</i>
+</p>
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/062c780c274af827ce53a45da22afde808093aec/Logistic_Regression/Loan%20vs%20Campaign%20Success.jpg style="height: 500px; float: center;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.2.2: Loan vs Campaign Success</b></i>
+</p>
+  
+<p align="center">
+<i>Customers with a personal loan tends to refuse the deposit.</i>
+</p>
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/062c780c274af827ce53a45da22afde808093aec/Logistic_Regression/Housing%20vs%20Campaign%20Success.jpg style="height: 500px; float: center;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.2.3: Housing vs Campaign Success</b></i>
+</p>
+  
+<p align="center">
+<i>Customers without a Housing Loan tends to accept the deposit.</i>
+</p>
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/062c780c274af827ce53a45da22afde808093aec/Logistic_Regression/Month%20vs%20Campaign%20Success.jpg style="height: 500px; float: center;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.2.4: Month vs Campaign Success</b></i>
+</p>
+
+<p align="center">
+<i>The graph above shows the customers tends to accept more the deposit on march, april, september and october.</i>
+</p>
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/062c780c274af827ce53a45da22afde808093aec/Logistic_Regression/Poutcome%20vs%20Campaign%20Success.jpg style="height: 500px; float: center;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.2.5: Poutcome vs Campaign Success</b></i>
+</p>
+
+<p align="center">
+<i>The graph above shows the customers who previously accepted the deposit tends to accept the deposit by a large margin.</i>
+</p>
+
+<p align="center">
+<img src=https://github.com/jfdixapostol/MeXE402_Midterm_RenzoSamsonJanBenedictApostol/blob/062c780c274af827ce53a45da22afde808093aec/Logistic_Regression/Balance%20vs%20Age%20by%20Deposit.jpg style="height: 500px; float: center;">
+</p>
+
+<p align="center">
+<b><i>Figure 2.2.6: Comparison in between Balance and Age by Deposit</b></i>
+</p>
+
+<p align="center">
+<i>The graph above shows that we can see the older customers tends to have a higher bank balance and the customers who accepted the deposit tended to have a higher balance compared to the customers who refused the deposit.</i>
+</p>
+  
 <br>
   
 ## III. Project Objectives
